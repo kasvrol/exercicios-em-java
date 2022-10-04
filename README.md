@@ -1,4 +1,4 @@
-<h1>Exercicios em java</h1>
+<h1>Exercícios em java</h1>
 
 <h3>Sobre o repositório: </h3>
 <p>Manter remotamente todos os exercícios feitos na linguagem java para melhorar minha lógica de programação nesta linguagem.</p>
